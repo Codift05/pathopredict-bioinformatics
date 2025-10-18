@@ -1,0 +1,2 @@
+C:/Users/Miftah/OneDrive/Documents/Mobile_Developer/App/pathopredict/android/app/.cxx/debug/3k4k2q57/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Miftah/OneDrive/Documents/Mobile_Developer/App/pathopredict/android/app/.cxx/debug/3k4k2q57/x86_64/CMakeFiles/rebuild_cache.dir
