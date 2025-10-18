@@ -58,6 +58,4 @@ flutter build web
 ## Kontribusi
 Pull request dan issue sangat diterima. Mohon sertakan deskripsi yang jelas.
 
-## Lisensi
-Tambahkan lisensi sesuai kebutuhan proyek Anda.
 
