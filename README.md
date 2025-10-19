@@ -1,4 +1,3 @@
-````markdown
 # 🧬 PathoPredict
 
 **PathoPredict** adalah aplikasi **Flutter** yang memungkinkan pengguna untuk mengunggah file atau gambar sampel biologis dan menerima hasil prediksi dari backend **Machine Learning (Python)**.  
